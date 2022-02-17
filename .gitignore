@@ -4,6 +4,9 @@
 .AppleDouble
 .LSOverride
 
+### Not syncing the workflows ###
+./github/workflows/
+
 # Icon must end with two \r
 Icon
 
