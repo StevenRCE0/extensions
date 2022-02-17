@@ -1,6 +1,7 @@
 <p align="center">
   <img src="images/store-logo.png" height="128">
   <h1 align="center">Raycast Extensions</h1>
+  This repo is mainly for my personal use, there're unpolished or too customized extensions and the rest are not always up-to-date. 
 </p>
 
 <p align="center">
