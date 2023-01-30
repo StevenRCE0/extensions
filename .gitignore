@@ -155,3 +155,4 @@ extensions/**/*.zip
 
 # IntelliJ / WebStorm
 .idea/
+*.iml
